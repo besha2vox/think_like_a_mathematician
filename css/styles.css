@@ -130,4 +130,7 @@ body {
     border-top: 1px solid rgb(117, 117, 117);
     border-bottom: 1px solid rgb(117, 117, 117);
   }
+  .iframe {
+    display: none;
+  }
 }
