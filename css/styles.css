@@ -63,7 +63,7 @@ body {
   color: rgb(50, 50, 50);
   text-decoration: none;
 }
-
+.page-nav a:active,
 .page-nav a:hover,
 .page-nav a:focus {
   color: rgb(117, 117, 117);
