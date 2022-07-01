@@ -114,11 +114,16 @@ body {
     margin: 0;
     padding: 0;
   }
-  .hero {
-    width: 100%;
+  .main-content .hero {
+    max-width: 100%;
     padding: 10px;
+  }
+  .primary-list {
+    padding-right: 20px;
   }
   .page-nav {
     border-left: none;
+    border-top: 1px solid rgb(117, 117, 117);
+    border-bottom: 1px solid rgb(117, 117, 117);
   }
 }
