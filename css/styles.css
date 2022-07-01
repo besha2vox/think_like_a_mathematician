@@ -108,6 +108,10 @@ body {
   box-shadow: 0 0 1em #000000;
 }
 
+.iframe {
+  outline: 4px #aa6027;
+}
+
 @media screen and (max-width: 750px) {
   .main-content {
     flex-direction: column;
