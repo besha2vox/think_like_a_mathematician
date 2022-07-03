@@ -123,9 +123,11 @@ body {
   background: #d5b59c;
   transition: 500ms ease-in-out;
 }
+.btn a:focus::before,
 .btn a:hover::before {
   left: calc(100% - 20px);
 }
+.btn a:focus::after,
 .btn a:hover::after {
   right: calc(100% - 20px);
 }
